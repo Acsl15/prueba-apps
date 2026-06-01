@@ -1,0 +1,7 @@
+streamlit
+pvlib
+pandas
+numpy
+plotly
+requests
+openpyxl
